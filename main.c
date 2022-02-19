@@ -1,6 +1,7 @@
 Commit 1 sin cambios
 7
 8
+9
 
 /// Librerías
 #include "Otro.h"
@@ -255,6 +256,7 @@ PunterosDobles:
     printf("\nValor: %d", Desplazamiento.Valor);
     Desplazamiento.Valor = Desplazamiento.Valor << 8;
     printf("\nValor: %d", Desplazamiento.Valor);
+10
 
 
 }   /// Main
