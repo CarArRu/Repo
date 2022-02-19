@@ -256,6 +256,9 @@ PunterosDobles:
     printf("\nValor: %d", Desplazamiento.Valor);
     Desplazamiento.Valor = Desplazamiento.Valor << 8;
     printf("\nValor: %d", Desplazamiento.Valor);
+    
+    
+///Enumeracion incorrecta    
 10
 11
 
