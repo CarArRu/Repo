@@ -3,11 +3,11 @@ Commit 1 sin cambios
 8
 9
 
-/// Librerías
+/// LibrerÃ­as
 #include "Otro.h"
 
 
-/// Prototipos de Función
+/// Prototipos de FunciÃ³n
 
 
 /// Constantes
@@ -257,6 +257,7 @@ PunterosDobles:
     Desplazamiento.Valor = Desplazamiento.Valor << 8;
     printf("\nValor: %d", Desplazamiento.Valor);
 10
+11
 
 
 }   /// Main
